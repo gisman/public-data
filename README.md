@@ -3,7 +3,7 @@
 바로가기: http://data.withtours.com
 
 공공데이터 검색 서비스입니다.
-세계 최고의 오픈 소스 데이터 포털 플랫폼인 [CKAN](https://ckan.org/)을 기반으로 합니다.
+[CKAN](https://ckan.org/)을 기반으로 합니다.
 
 주 1회 업데이트 합니다.
 
