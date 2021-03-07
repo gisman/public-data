@@ -7,6 +7,25 @@
 
 주 1회 업데이트 합니다.
 
+## 2021년 3월
+
+* 한글 검색 개선
+* 공공데이터 포털의 파일 다운로드 오류 수정
+* 표준데이터(공공데이터 포털) 그룹 추가
+* DCAT 추가
+```
+# 전체 카탈로그 조회
+http://data.withtours.com/catalog.rdf?page=1
+http://data.withtours.com/catalog.jsonld?page=1
+
+# 데이터셋의 rdf 조회
+http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.rdf
+http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.jsonld
+http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.xml
+```
+
+
+
 ## 2021년 2월
 
 1. 공공데이터포털 (44,555 데이터셋)
