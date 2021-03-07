@@ -26,7 +26,8 @@ http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.rdf
 http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.jsonld
 http://data.withtours.com/dataset/www-data-go-kr-data-filedata-15048620.xml
 ```
-1. 1. 공공데이터포털	       (45,171 데이터셋)
+
+1. 1.공공데이터포털	       (45,171 데이터셋)
 1. 1.지방행정 인허가 데이터개방(36 데이터셋)
 1. 2.국가공간정보포털	       (692 데이터셋)
 1. 2.서울특별시	               (6,659 데이터셋)
