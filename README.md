@@ -7,20 +7,20 @@
 
 주 1회 업데이트 합니다.
 
-![조직](:./gisman.public-data-202103.png)
+![조직](./gisman.public-data-202103.png | width=100)
 
 ## 2021년 5월
 
 ## 새로운 기능
 
 * Jupyter Notebook 보기
-![Notebook](:./screenshots/notebook.png)
+![Notebook](./screenshots/notebook.png | width=100)
 
 * 주소 품질 평가
-![address](:./screenshots/address.png)
+![address](./screenshots/address.png | width=100)
 
 * 지도 보기
-![map](:./screenshots/map.png)
+![map](./screenshots/map.png | width=100)
 
 1. 1.공공데이터포털	(47,210 데이터셋)
 1. 1.지방행정 인허가 데이터개방	(36 데이터셋)
