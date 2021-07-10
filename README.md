@@ -12,6 +12,7 @@
 ## 2021년 7월
 
 * Pandas Profile report 추가
+* zip 파일 미리보기
 * 산림 빅데이터 플랫폼 샘플 이미지 미리보기
 * 교통 빅데이터 플랫폼 샘플 데이터 보기
 * [대구 D-데이터허브 ](http://data.daegu.go.kr/open/introduce/siteIntro.do) 사이트 개편 반영
