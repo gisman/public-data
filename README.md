@@ -1,6 +1,6 @@
-# [대한민국 공공데이터 서비스](http://data.withtours.com) 
+# [대한민국 공공데이터 서비스](http://www.gimi9.com) 
 
-바로가기: http://data.withtours.com
+바로가기: http://www.gimi9.com
 
 공공데이터 검색 서비스입니다.
 [CKAN](https://ckan.org/)을 기반으로 합니다.
