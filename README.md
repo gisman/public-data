@@ -7,7 +7,7 @@
 
 주 1회 업데이트 합니다.
 
-![조직](./gisman.public-data-202103.png)
+![조직](./gisman.public-data-202111.png)
 
 ## 2021년 11월
 
