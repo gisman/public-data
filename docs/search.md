@@ -1,9 +1,11 @@
-![검색 화면](search.png)
-
 ![검색 화면](images/search.png)
 
-![검색 화면](/images/search.png)
+검색어 입력
 
-![검색 화면](assets/images/search.png)
+## 정렬
 
-![검색 화면](/assets/images/search.png)
+* 관련성
+* 이름 오름차순
+* 이름 내림차순
+* 마지막으로 수정됨
+* 인기있는
