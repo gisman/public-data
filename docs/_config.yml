@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-cayman
+remote_theme: just-the-docs/just-the-docs
 title: 기미나인(Gimi9) 설명서
 description: CSV, XLSX 미리보기, 데이터 품질 검사 리포트 (Pandas Profiling Report), 지도에서 보기, 주소 품질 검사
