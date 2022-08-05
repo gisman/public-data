@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: 미리보기
 parent: 리소스
 nav_order: 1
 ---
@@ -12,7 +12,7 @@ nav_order: 1
 
 기미나인이 CSV, 엑셀, Zip, 이미지, 동영상 등의 파일 미리보기를 진상해요.
 
-![미리보기 화면-1](images/preview-1.png)
+![미리보기 화면-1](/images/preview-1.png)
 
 ### 파일 인코딩
 
