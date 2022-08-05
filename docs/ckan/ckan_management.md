@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: CKAN
+nav_order: 1
+---
+
 <span id="ckan-install"></span>
 = CKAN install =
 

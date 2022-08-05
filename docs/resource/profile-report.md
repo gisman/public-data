@@ -1,3 +1,10 @@
+---
+layout: default
+title: Buttons
+parent: 리소스
+nav_order: 2
+---
+
 ## 탐색적 데이터 분석
 
 데이터 활용에 앞서 데이터에 대해 알아보는 과정이 필요하다.
