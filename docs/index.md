@@ -1,5 +1,8 @@
 # Gimi9 사용 설명서
 
+작성중
+{: .label .label-yellow }
+
 [www.gimi9.com](https://gimi9.com/)
 
 # 사용 설명서 작성중인데요, 진도가 잘 안 나가요. 8월 8일 이후에 보세요.
