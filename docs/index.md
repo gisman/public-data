@@ -8,28 +8,28 @@ nav_order: 0
 
 # Gimi9 사용 설명서
 
-작성중
-{: .label .label-yellow }
+<!-- 작성중
+{: .label .label-yellow } -->
 
 [www.gimi9.com](https://gimi9.com/)
 
-# 사용 설명서 작성중인데요, 진도가 잘 안 나가요. 8월 8일 이후에 보세요.
+<!-- # 사용 설명서 작성중인데요, 진도가 잘 안 나가요. 8월 8일 이후에 보세요. -->
 
 2022년 7월 현재 공공데이터 포털 등 40개 기관
 빅데이터 플랫폼 13개 포함 (AI Hub 제외)
 
 125,156개 데이터셋
 
-## 기관 선택
+## 기관
 
-[기관](organization.html)
+[기관](organization)
 
 [조직] 이 제공하는 데이터셋과 소개 조회
 장 단점, 활용 유의 사항
 
 ## 검색
 
-[검색](search.html)
+[검색](search)
 
 검색어 입력
 정렬:
@@ -39,9 +39,9 @@ nav_order: 0
 마지막으로 수정됨
 인기있는
 
-## 필터링
+## 검색 결과 필터링
 
-[필터링](filter.html)
+[필터링](filter)
 
 검색 결과를 정교하게 필터링
 조직
@@ -50,9 +50,9 @@ nav_order: 0
 포맷: CSV, 엑셀 등
 라이선스
 
-## 데이터셋 정보
+## 데이터셋
 
-[데이터셋 정보](dataset.html)
+[데이터셋 정보](dataset)
 
 제공 기관
 설명
@@ -62,7 +62,7 @@ nav_order: 0
 갱신 주기
 기미 버전: gimi9의 품질 검사일
 
-## 리소스 정보
+## 리소스
 
 [리소스 정보](리소스 정보)
 파일 설명
@@ -73,7 +73,7 @@ EDA 리포트
 
 ## 미리보기
 
-[미리보기](preview.html)
+[미리보기](preview)
 
 파일을 다운 받지 않고 내용 파악 가능
 CSV, 엑셀, Zip, 이미지, 동영상 미리보기
@@ -83,7 +83,7 @@ CSV, 엑셀, Zip, 이미지, 동영상 미리보기
 
 ## 위치 정보(지도)
 
-[위치 정보(지도)](map.html)
+[위치 정보(지도)](map)
 
 31,926개의 지도 제공
 데이터의 주소 또는 좌표 값 지도
@@ -92,7 +92,7 @@ CSV, 엑셀, Zip, 이미지, 동영상 미리보기
 
 ## Profile Report
 
-[Profile Report](profile-report.html)
+[Profile Report](profile-report)
 
 CSV, 엑셀 데이터의 EDA 리포트 제공
 
@@ -103,7 +103,7 @@ EDA (Exploratory Data Analysis) 란
 
 ## CKAN
 
-[CKAN](ckan.html)
+[CKAN](ckan)
 
 CKAN은 데이터 개방 표준을 주도하는 오픈소스 플랫폼
 미국·캐나다·호주·스위스 등의 정부 공공데이터 플랫폼으로 채택
