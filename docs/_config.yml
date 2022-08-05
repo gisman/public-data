@@ -5,6 +5,9 @@ remote_theme: just-the-docs/just-the-docs
 title: 기미나인(Gimi9) 설명서
 description: CSV, XLSX 미리보기, 데이터 품질 검사 리포트 (Pandas Profiling Report), 지도에서 보기, 주소 품질 검사
 
+# Set a path/url to a logo that will be displayed instead of the title
+logo: "images/gimi9-logo.png"
+
 # Enable or disable the site search
 # Supports true (default) or false
 search_enabled: true
@@ -14,4 +17,14 @@ search.heading_level: 3
 
 # google 검색 노출
 plugins: ['jekyll-sitemap']
+
+# Google Analytics Tracking (optional)
+# e.g, UA-1234567-89
+ga_tracking: UA-59967961-1
+ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true by default)
+
+# Aux links for the upper right navigation
+aux_links:
+  "기미나인 홈":
+    - "https://gimi9.com/"
 

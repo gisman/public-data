@@ -1,3 +1,9 @@
+---
+layout: default
+title: 검색
+nav_order: 1
+---
+
 ![검색 화면](images/search.png)
 
 검색어 입력
