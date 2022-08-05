@@ -1,0 +1,1 @@
+[토론 바로가기](https://github.com/gisman/public-data/discussions)
