@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Buttons
+title: CKAN 활용(관리자)
 parent: CKAN
 nav_order: 1
 ---

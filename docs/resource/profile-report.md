@@ -26,13 +26,13 @@ EDA 리포트를 자동으로 만들어 주는 솔루션이 몇 가지 있는데
 pandas만 가지고도 df.describe()나 head(), tail(), sample() 등으로 매우 기본적인 탐색을 할 수 있겠지만,
 Pandas Profiling은 신세계에요. 
 
-![Profile Report 예시1](/images/profile-report-1.png)
+![Profile Report 예시1](/public-data/images/profile-report-1.png)
 
 변수별 특성을 체계적으로 잘 보여줄 뿐 아니라 변수간의 상관관계를 분석한 그래프를 제공하거든요.
 
-![Profile Report 예시2](/images/profile-report-2.png)
+![Profile Report 예시2](/public-data/images/profile-report-2.png)
 
-![Profile Report 예시3](/images/profile-report-3.png)
+![Profile Report 예시3](/public-data/images/profile-report-3.png)
 
 ## gimi9의 EDA
 
