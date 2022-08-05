@@ -1,3 +1,11 @@
+---
+layout: home
+title: Buttons
+parent: 개요
+nav_order: 0
+---
+
+
 # Gimi9 사용 설명서
 
 작성중
