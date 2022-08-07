@@ -64,16 +64,16 @@ nav_order: 0
 
 ## 리소스
 
-[리소스 정보](리소스 정보)
+[리소스 정보](resource)
 파일 설명
 파일 미리 보기
 지도
 주소 정보 품질
 EDA 리포트
 
-## 미리보기
+### 미리보기
 
-[미리보기](preview)
+[미리보기](resource/preview)
 
 파일을 다운 받지 않고 내용 파악 가능
 CSV, 엑셀, Zip, 이미지, 동영상 미리보기
@@ -81,18 +81,18 @@ CSV, 엑셀, Zip, 이미지, 동영상 미리보기
 좌표계 변환: GIS 비전문가를 위해 WGS84 좌표계로 변환하여 제공
 지도 Download: CSV, JSON, GeoJSON, KML 등 주요 포맷 지원
 
-## 위치 정보(지도)
+### 위치 정보(지도)
 
-[위치 정보(지도)](map)
+[위치 정보(지도)](resource/map)
 
 31,926개의 지도 제공
 데이터의 주소 또는 좌표 값 지도
 속성 정보 보기
 다운로드
 
-## Profile Report
+### Profile Report
 
-[Profile Report](profile-report)
+[Profile Report](resource/profile-report)
 
 CSV, 엑셀 데이터의 EDA 리포트 제공
 
