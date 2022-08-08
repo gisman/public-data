@@ -16,7 +16,7 @@ search_enabled: true
 search.heading_level: 3
 
 # google 검색 노출
-plugins: ['jekyll-sitemap', 'jekyll-toc']
+plugins: ['jekyll-sitemap']
 
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89

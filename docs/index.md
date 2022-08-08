@@ -3,8 +3,22 @@ layout: home
 title: Buttons
 parent: 개요
 nav_order: 0
-toc: true
 ---
+
+[www.gimi9.com](https://gimi9.com/)
+
+
+* [검색](search)
+  * [필터링](filter)
+* [데이터 제공 기관](organization)
+* [데이터셋](dataset)
+* [리소스](resource)
+  * [미리보기](resource/preview)
+  * [위치 정보(지도)](resource/map)
+  * [Profile Report](resource/profile-report)
+* [CKAN](ckan)
+* [자주 묻는 질문](faq)
+
 
 
 # Gimi9 사용 설명서
