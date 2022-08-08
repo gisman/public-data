@@ -16,7 +16,7 @@ nav_order: 2
 
 ## 필터 대상
 
-![필터링 화면](images/filter-1.png)
+![필터링 화면](/public-data/images/filter-1.png)
 
 ### 필터 분류
 
@@ -33,6 +33,6 @@ nav_order: 2
 
 ## 필터링 결과
 
-![필터링 화면](images/filter-2.png)
+![필터링 화면](/public-data/images/filter-2.png)
 
 

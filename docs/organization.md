@@ -166,6 +166,8 @@ nav_order: 3
 
 ![로고](https://www.gimi9.com/uploads/group/2021-11-03-032935.083322logo-6.png)
 
+핀테크 API 제공. 주로 금융기관을 대상으로 하는 서비스
+
 
 ## [카톨릭빅데이터통합센터](https://www.gimi9.com/organization/cmcdata)
 
