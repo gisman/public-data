@@ -3,6 +3,7 @@ layout: home
 title: Buttons
 parent: 개요
 nav_order: 0
+toc: true
 ---
 
 
@@ -20,7 +21,7 @@ nav_order: 0
 
 125,156개 데이터셋
 
-## 기관
+## 데이터 제공 기관
 
 [기관](organization)
 
