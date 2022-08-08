@@ -2,7 +2,7 @@
 layout: default
 title: 데이터 제공 기관
 parent: 자주 묻는 질문
-nav_order: 3
+nav_order: 1
 ---
 
 ## [공공데이터포털](https://www.gimi9.com/organization/data-go-kr)
