@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 데이터 제공 기관
+parent: 자주 묻는 질문
 nav_order: 3
 ---
 
