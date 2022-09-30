@@ -17,7 +17,7 @@
 * 부산빅데이터 추가
 * 조직 명칭 수정: 카톨릭, 서울 빅데이터 등 통일성 있고 의미 알기 쉽게.
 * naver 블로그 링크 추가. "공공데이터 뉴스" 메뉴에 연결됩니다. https://blog.naver.com/gimi9-blog
-* resource 다운로드 url 숨김. 해당 포털에서 다운받으세요.
+* resource 다운로드 url 제거. 원본 사이트에서 다운로드 하세요.
 * (인기) 유용한 데이터 제공처 소개페이지: https://gimi9.com/dataset/portal_etc
 
 1. 공공데이터포털	(64,230 데이터셋)
