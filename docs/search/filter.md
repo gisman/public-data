@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 검색 결과 필터링
-nav_order: 2
+nav_order: 1
 ---
 
 검색 결과에서 관심 있는 것들만 추려 볼 수 있어요.
