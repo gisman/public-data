@@ -2,6 +2,7 @@
 layout: default
 title: 검색
 nav_order: 1
+has_children: true
 ---
 
 ![검색 화면](/public-data/images/search.png)

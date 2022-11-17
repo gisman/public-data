@@ -21,6 +21,6 @@ nav_order: 0
   * [위치 정보(지도)](resource/map)
   * [Profile Report](resource/profile-report)
 * [CKAN](ckan)
-  * [개발자를 위한 CKAN 소개](ckan_management.html)
+  * [개발자를 위한 CKAN 소개](ckan/ckan_management)
 * [자주 묻는 질문](faq)
   * [데이터 제공 기관](organization)
