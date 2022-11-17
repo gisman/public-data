@@ -1,8 +1,8 @@
 ---
 layout: default
 title: 공공데이터 url 검색
-nav_order: 2
 parent: 검색
+nav_order: 2
 ---
 
 공공데이터의 url을 검색창에 넣어보세요. [기미나인](https://www.gimi9.com/)이 상세 정보를 보여줘요.
