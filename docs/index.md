@@ -14,6 +14,7 @@ nav_order: 0
 
 * [검색](search)
   * [필터링](search/filter)
+  * [url 검색](search/url)
 * [데이터셋](dataset)
 * [리소스](resource)
   * [미리보기](resource/preview)
