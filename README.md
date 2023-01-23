@@ -11,7 +11,7 @@
 
 ## 2023년 1월
 
-* 데이터바우처 상품 안내: [상품 상세 정보] (http://kdata.or.kr/datavoucher/is/selectPortalFileDetail.do?rcpnYear=2023&brno=3778701405&sprnSctrCd=P01014002&prdcId=&sprnDsncCd=P11014001)
+* 데이터바우처 상품 안내: [상품 상세 정보](http://kdata.or.kr/datavoucher/is/selectPortalFileDetail.do?rcpnYear=2023&brno=3778701405&sprnSctrCd=P01014002&prdcId=&sprnDsncCd=P11014001)
 
 기미나인의 데이터 수집, 전처리 가공, 분석, 공간 데이터, 시스템 개발 분야의 기술을 데이터 바우처 사업을 통해 제공합니다.
 
@@ -64,7 +64,7 @@
 
 ## 2022년 12월
 
-* 데이터바우처 상품 등록: [상품 상세 정보] (http://kdata.or.kr/datavoucher/is/selectPortalFileDetail.do?rcpnYear=2023&brno=3778701405&sprnSctrCd=P01014002&prdcId=&sprnDsncCd=P11014001)
+* 데이터바우처 상품 등록: [상품 상세 정보](http://kdata.or.kr/datavoucher/is/selectPortalFileDetail.do?rcpnYear=2023&brno=3778701405&sprnSctrCd=P01014002&prdcId=&sprnDsncCd=P11014001)
 
 
 ## 2022년 11월
