@@ -7,6 +7,12 @@
 
 주 1회 업데이트 합니다.
 
+## 국가 지원으로 비용 부담 없이 데이터포털을 만드세요
+### 3월 28일(화요일)까지 접수
+[기미나인 데이터바우처 상품 안내 바로가기](http://kdata.or.kr/datavoucher/is/selectPortalFileDetail.do?rcpnYear=2023&brno=3778701405&sprnSctrCd=P01014002&prdcId=&sprnDsncCd=P11014001)
+
+#### 편하게 문의하세요: gisman@gmail.com 윤태호팀장
+
 ![조직](./gisman.public-data-202111.png)
 
 ## 2023년 1월
