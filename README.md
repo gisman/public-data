@@ -6,6 +6,8 @@
 
 주 1회 업데이트 합니다.
 
+질문이 있는 경우 언제든지 [GitHub 토론](https://github.com/gisman/public-data/discussions)을 통해 커뮤니티에 문의하세요.
+
 ## 2024년 1월
 * 광주광역시 빅데이터 통합 플랫폼 추가
 * 충남데이터포털 올담 추가
