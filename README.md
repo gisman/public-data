@@ -19,9 +19,7 @@
   * 포털, 그룹, 데이터셋을 Follow 하고 내 페이지에서 보기
   * 별점, 댓글
 * 원본 포털로 가기 링크, 포털에 대한 설명과 장단점 추가
-    ![portal-info](./screenshots/portal-info.png){: width="100" height="100"){: .center}
 * 지오코딩 개선: 스마트폰에서도 볼 수 있습니다. 정확도를 juso.go.kr 과 거의 같은 수준으로 개선
-    ![geocode-mobile-screen](./screenshots/geocode-mobile-screen.png)
 * 데이터셋 화면에 연관데이터셋을 보여줍니다.
 * 리소스 화면 개선
   * 펼치기/접기로 보기 좋게 개선
