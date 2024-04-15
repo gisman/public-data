@@ -7,10 +7,12 @@ nav_order: 0
 
 # Gimi9 사용 설명서
 
-어서오세요~ [기미나인](https://gimi9.com/)에 오신 것을 환영해요.
+[기미나인](https://gimi9.com/)에 오신 것을 환영합니다.
 
-2022년 7월 현재 공공데이터 포털 등 40여개 기관의 공공데이터를 모아서 제공해요.
-여기에는 빅데이터 플랫폼 13개(AI Hub 제외)도 포함 되는데요, 유상으로 제공하는 것도 있어요.
+기미나인은 2024년 3월 현재 공공데이터 포털 등 60여개 포털의 공공데이터를 모아서 제공합니다.
+
+여기에는 유료 데이터를 판매하는 빅데이터 플랫폼도 포함 됩니다.
+2024년에 해외의 공공데이터를 추가할 예정입니다.
 
 * [검색](search)
   * [필터링](search/filter)
@@ -22,5 +24,6 @@ nav_order: 0
   * [Profile Report](resource/profile-report)
 * [CKAN](ckan)
   * [개발자를 위한 CKAN 소개](ckan/ckan_management)
-* [자주 묻는 질문](faq)
-  * [데이터 제공 기관](organization)
+* [자주 하는 질문](https://gimi9.com/faq/)
+* [데이터 제공 기관](https://gimi9.com/organization/)
+
