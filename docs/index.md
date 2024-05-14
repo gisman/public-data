@@ -24,6 +24,5 @@ nav_order: 0
   * [Profile Report](resource/profile-report)
 * [CKAN](ckan)
   * [개발자를 위한 CKAN 소개](ckan/ckan_management)
-* [자주 하는 질문](https://gimi9.com/faq/)
 * [데이터 제공 기관](https://gimi9.com/organization/)
 
