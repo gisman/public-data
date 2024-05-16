@@ -25,4 +25,5 @@ nav_order: 0
 * [CKAN](ckan)
   * [개발자를 위한 CKAN 소개](ckan/ckan_management)
 * [데이터 제공 기관](https://gimi9.com/organization/)
+* [지오코더 서비스](https://gimi9.com/geocode-service/)
 
