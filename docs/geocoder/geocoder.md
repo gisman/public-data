@@ -12,21 +12,18 @@ nav_order: 2
 
 ## 실행 방법
 
-![지오코딩1](https://github.com/gisman/public-data/assets/310358/486b15df-82fd-47dc-921c-d3c2847a3c44)
+![슬라이드2](https://github.com/gisman/public-data/assets/310358/38e8ef9f-970e-45e2-9f1f-068461a4b171)
 
 1. 웹 인터페이스에서 '주소 찾기' 버튼을 클릭합니다.
 2. 나타나는 대화 상자에 찾고자 하는 주소를 입력합니다.
 3. '제출' 버튼을 클릭하여 주소를 제출합니다.
 4. 제출 후, 시스템은 입력한 주소의 지리적 좌표를 반환하며, 이를 목록과 지도 두 영역에서 확인할 수 있습니다.
 
-![지오코딩2](https://github.com/gisman/public-data/assets/310358/fafdd449-44c7-4f7b-a8fa-ed56aabc5580)
-
 ## 결과 확인 방법
 
 지오코딩 서비스를 사용하여 주소를 검색한 후, 결과를 확인하는 방법은 다음과 같습니다:
 
-![슬라이드3](https://github.com/gisman/public-data/assets/310358/29a21890-a7ed-469a-a805-50e388a1a1d8)
-
+![슬라이드3](https://github.com/gisman/public-data/assets/310358/0a24e049-c560-4a8f-bd80-8b30b953e772)
 
 1. 검색 결과 목록에서 원하는 주소를 클릭합니다. 클릭하면 지도에 해당 위치가 표시되며, 해당 위치의 속성 정보가 표시됩니다.
 1. 지도에 표시된 아이콘을 클릭합니다. 해당 주소의 속성 정보가 표시됩니다.
