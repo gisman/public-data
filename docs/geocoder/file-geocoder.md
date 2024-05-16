@@ -14,6 +14,7 @@ nav_order: 2
 기미나인 지오코더는 사용자가 업로드한 위치 데이터를 처리하고 지오코딩하는 웹 기반 서비스입니다. 사용자가 CSV 또는 Excel 파일을 업로드하면,
 이 서비스는 이 파일의 주소를 지오코딩합니다.
 
+![file-geocoding](https://github.com/gisman/public-data/assets/310358/cc91531c-d9c2-4805-b92e-0598aeeb94fe)
 
 
 지오코딩 된 파일은 CSV, Excel 또는 Shapefile 파일로 다운로드 합니다. Shapefile은 사용자가 다운로드할 수 있도록 ZIP 파일로 압축됩니다.
