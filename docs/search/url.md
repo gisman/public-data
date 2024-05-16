@@ -7,7 +7,7 @@ nav_order: 2
 
 공공데이터의 URL을 검색창에 입력하면, [기미나인](https://www.gimi9.com/)에서 해당 데이터의 상세 정보를 제공합니다.
 
-[동영상 삽입]
+[사용법 동영상](https://youtu.be/UqTcZyWDlLU)
 
 일반적으로 데이터 포털은 데이터셋에 대한 간략한 정보만 제공합니다. 
 같은 데이터셋을 기미나인에서 보면 [Profile Report](/public-data/resource/profile-report) 또는 지도 등 상세한 정보를 볼 수 있습니다. 따라서 데이터를 파악하는 시간을 크게 줄일 수 있습니다.

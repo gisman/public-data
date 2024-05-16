@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 파일 지오코더
-parent: 검색
+parent: 지오코더
 nav_order: 2
 ---
 
