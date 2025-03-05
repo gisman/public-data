@@ -12,6 +12,26 @@
 
 주요 소식은 [페이스북 페이지](https://facebook.com/gimi9.page)에 공개합니다.
 
+## 2025년 2월
+
+* 사용자가 직접 미리보기를 생성할 수 있는 기능이 추가되었습니다
+* SHP(지도), zip 파일 미리보기 개선
+* jp-gimi9 포털의 수집 수정
+* 국가별 국기 이모지 추가
+* 반응형 UI 개선. 특히 와이드 모니터의 레이아웃 개선
+* 미리보기 지원 포맷이 확장되었으며, Microsoft Office 웹 뷰어가 추가되었습니다
+
+미리보기 기능은 이제 다음과 같은 다양한 파일 형식을 지원합니다
+
+* 문서: CSV, Microsoft Excel, Word, PowerPoint, PDF, 아래한글, OpenOffice Spreadsheet
+* 압축: ZIP
+* 데이터: XML, JSON, GEOJSON, WMS, WFS, GML, KML
+* 메타데이터: RDF, TTL, N3, JSONLD
+* 지리 정보: SHP 지도
+* 과학 데이터: NETCDF, NC
+* 멀티미디어: 동영상, 이미지
+
+
 ## 2025년 1월
 
 * featured 포털, featured 그룹 기능 추가
