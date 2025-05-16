@@ -1,4 +1,4 @@
-# [대한민국 오픈데이터 서비스](https://www.gimi9.com) 
+# [오픈데이터 서비스](https://www.gimi9.com) 
 
 바로가기: https://www.gimi9.com
 
