@@ -12,6 +12,19 @@
 
 주요 소식은 [페이스북 페이지](https://facebook.com/gimi9.page)에 공개합니다.
 
+
+## 2025년 5월
+
+* 멕시코 데이터 포털 추가
+* 네덜란드 데이터 포털 추가
+* 사우디아라비아 데이터 포털 추가
+* world bank 데이터 포털 추가
+* 인도 데이터 포털 추가
+* 언어 전환 오류 수정
+* 게시판 추가 (github discussions)
+* geocode결과 전체화면보기 개선 
+* 통신빅데이터 url 갱신
+
 ## 2025년 4월
 
 * cache를 이용한 속도 개선. cache 서버를 오픈소스로 공개: https://github.com/gisman/bigcache
