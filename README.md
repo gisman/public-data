@@ -13,6 +13,17 @@
 주요 소식은 [페이스북 페이지](https://facebook.com/gimi9.page)에 공개합니다.
 
 
+## 2025년 7월
+
+* 공공데이터 지오코딩 
+* 지오코딩 시각화 (단계 구분도 등. [전체화면으로 보기](https://geocode.gimi9.com/?res_id=d903c23f-bb29-41e9-9e93-f2e10cfe20ea) 를 통해 제공)
+
+## 2025년 6월
+
+* 지오코딩 결과에 행정동 코드 History 제공
+* 지오코딩 실패 사유 출력
+* 지오코딩 성능개선 (Python GIL Free)
+
 ## 2025년 5월
 
 * 멕시코 데이터 포털 추가
@@ -28,7 +39,7 @@
 ## 2025년 4월
 
 * cache를 이용한 속도 개선. cache 서버를 오픈소스로 공개: https://github.com/gisman/bigcache
-* AI 다국어 검색 추가
+* AI 다국어 검색 추가 (Semantic Search)
 * 유사한 데이터셋 추천 기능 추가 (데이터셋 페이지 하단의 **유사한 데이터셋 (Click)** 버튼)
 
 
