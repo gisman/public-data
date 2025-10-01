@@ -13,6 +13,16 @@
 주요 소식은 [페이스북 페이지](https://facebook.com/gimi9.page)에 공개합니다.
 
 
+## 2025년 9월
+
+* 공공데이터포털(data.go.kr) 장애 발생. 데이터 다운로드 가능하도록 임시 조치
+
+## 2025년 8월
+
+* 지오코딩 전체보기에	주제도 시각화 추가
+* gimi9-geocoder 패키지 공개. Python 분석 환경에서 지오코더 API 사용 https://colab.research.google.com/drive/1Er7h2DsWy3cnB28xXfX78iO2v2wDnzUV?usp=sharing
+
+
 ## 2025년 7월
 
 * 공공데이터 지오코딩 
